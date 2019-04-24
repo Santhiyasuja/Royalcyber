@@ -3,4 +3,7 @@ Welcome to Rc
 Santhiya .M-QA
 Vishal.RK-QA
 
+Swetha.c-QA
+Durga
+
 Thank you
